@@ -26,7 +26,7 @@ public class array1 {
             System.out.println(numArray[i]);
         }
         System.out.println("\n-----\n");
-        //num array 2
+        // num array 2
         int[] numArray2 = new int[10];
         for (int i = 0; i < numArray2.length; i++) {
             numArray2[i] = (int)(Math.random()*19);
